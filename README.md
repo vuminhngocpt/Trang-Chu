@@ -24,7 +24,7 @@ o
 `Trang này bạn có thể cho tôi tiền ủng hộ các dự án của tôi bằng tiền để tôi có động lực thêm chút ít để ngồi viết code xin chân thành cảm ơn bạn đã ủng hộ . Bạn cũng có thể chia sẻ những thứ mà mình biết hoặc đóng góp code cho tôi`
 
 
-💥📁 [Tâm Sự](https://github.com/vuminhngocpt/gioithieivetoi) `tâm sự cùng admin , tui cũng là người bình thường nên sẽ có lúc có tâm sự tôi thường sẽ không đăng lên các mạng xã hội`
+ 🗣 [Tâm Sự Của Tôi](https://github.com/vuminhngocpt/gioithieivetoi) `tâm sự cùng admin , tui cũng là người bình thường nên sẽ có lúc có tâm sự tôi thường sẽ không đăng lên các mạng xã hội Để bạn hiểu hơn về tôi `
 
 
 💥 [Frimware-ROM-Bios](https://github.com/vuminhngocpt/Up-rom/blob/main/README.md) `vào đây để tải các bản phần mềm hệ thống cho các loại thiết bị ở đây tôi chỉ mới cung cấp được cho nokia là chính chủ còn các hãng khác vẫn chưa có nhiều tôi sẽ đưa bạn đến các trang tải khác sẽ có cảnh báo nếu không phải trang của tôi`
