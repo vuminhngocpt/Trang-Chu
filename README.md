@@ -40,9 +40,8 @@ o
 
 
 #### Đang tải thêm dữ liêu mới ...
-        
 
-            © 2024 Vu Minh Ngoc
-####    Hỗ Trợ Cho Admin
+        
+####     🎁 Tặng Quà Cho Tôi🧧
         9704229228460601￼ 
 - Mbbank - ViettelPay -Vu Minh Ngoc
