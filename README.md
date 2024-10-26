@@ -43,6 +43,6 @@ o
         
 
             © 2024 Vu Minh Ngoc
-
- [![7-AB1-D21-B-B889-4-C59-96-E9-949003-FD55-A5.jpg](https://i.postimg.cc/w3Kfjdwj/7-AB1-D21-B-B889-4-C59-96-E9-949003-FD55-A5.jpg)](https://postimg.cc/tn5tB80K) 
- - Chuyển khoản hỗ trợ cho trang này 
+####    Hỗ Trợ Cho Admin
+        9704229228460601￼ 
+- Mbbank - ViettelPay -Vu Minh Ngoc
