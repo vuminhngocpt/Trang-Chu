@@ -29,6 +29,7 @@ o
 📚 [Mua Bán Thẻ Pokemon](test)
 `nơi mua bán chao đổi thẻ pokemon oline và thẻ vật lý `
 
+🆙🌱👩‍❤️‍💋‍👩 [Dành Cho Người Khuyết Tật](test) `Trang này hỗ trợ cho những người có hoàn cảnh khó khăn cần được sự trợ giúp từ cộng đồng `
 
 💥 [Frimware-ROM-Bios](https://github.com/vuminhngocpt/Up-rom/blob/main/README.md) `vào đây để tải các bản phần mềm hệ thống cho các loại thiết bị ở đây tôi chỉ mới cung cấp được cho nokia là chính chủ còn các hãng khác vẫn chưa có nhiều tôi sẽ đưa bạn đến các trang tải khác sẽ có cảnh báo nếu không phải trang của tôi`
 
