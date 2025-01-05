@@ -27,9 +27,11 @@ o
  🗣 [Tâm Sự Của Tôi](https://github.com/vuminhngocpt/gioithieivetoi) `tâm sự cùng admin , tui cũng là người bình thường nên sẽ có lúc có tâm sự tôi thường sẽ không đăng lên các mạng xã hội Để bạn hiểu hơn về tôi `
 
 📚 [Mua Bán Thẻ Pokemon](test)
-`nơi mua bán chao đổi thẻ pokemon oline và thẻ vật lý `
+`nơi mua bán chao đổi thẻ pokemon oline và thẻ vật lý ... đang test sever `
 
-🆙🌱👩‍❤️‍💋‍👩 [Dành Cho Người Khuyết Tật](https://github.com/vuminhngocpt/Danh-cho-nguoi-khuyet-tat) `Trang này hỗ trợ cho những người có hoàn cảnh khó khăn cần được sự trợ giúp từ cộng đồng `
+
+🆙🌱👩‍❤️‍💋‍👩 [Dành Cho Người Kém May Mắn Và Khuyết Tật ](https://github.com/vuminhngocpt/Danh-cho-nguoi-khuyet-tat) `Trang này hỗ trợ cho những người có hoàn cảnh khó khăn cần được sự trợ giúp từ cộng đồng , mình cũng nhận từ thiện ở đây khi nào có hoàn cảnh khó khăn mình sẽ cho trường hợp cụ thể để cho các bạn giúp họ ạ `
+
 
 💥 [Frimware-ROM-Bios](https://github.com/vuminhngocpt/Up-rom/blob/main/README.md) `vào đây để tải các bản phần mềm hệ thống cho các loại thiết bị ở đây tôi chỉ mới cung cấp được cho nokia là chính chủ còn các hãng khác vẫn chưa có nhiều tôi sẽ đưa bạn đến các trang tải khác sẽ có cảnh báo nếu không phải trang của tôi`
 
