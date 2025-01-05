@@ -20,7 +20,7 @@ o
 💥[Thông Tin Và Điều Khoản Sử Dụng](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md) `bạn vui lòng tham khảo các điều khoản sử dụng của tôi và xem thông tin nhóm chúng tôi ở đây để không để các sự việc ... xin hãy bỏ chút thời gian để tìm hiểu nó`
 
 
-💥[Hỗ Trợ - Donate Cho Mình](https://github.com/vuminhngocpt/Donate-Ung-ho-Admin) 
+💥[Hỗ Trợ - Donate ](https://github.com/vuminhngocpt/Donate-Ung-ho-Admin) 
 `Trang này bạn có thể cho tôi tiền ủng hộ các dự án của tôi bằng tiền để tôi có động lực thêm chút ít để ngồi viết code xin chân thành cảm ơn bạn đã ủng hộ . Bạn cũng có thể chia sẻ những thứ mà mình biết hoặc đóng góp code cho tôi`
 
 
@@ -30,7 +30,7 @@ o
 `nơi mua bán chao đổi thẻ pokemon oline và thẻ vật lý ... đang test sever `
 
 
-🆙🌱👩‍❤️‍💋‍👩 [Dành Cho Người Kém May Mắn Và Khuyết Tật ](https://github.com/vuminhngocpt/Danh-cho-nguoi-khuyet-tat) `Trang này hỗ trợ cho những người có hoàn cảnh khó khăn cần được sự trợ giúp từ cộng đồng , mình cũng nhận từ thiện ở đây khi nào có hoàn cảnh khó khăn mình sẽ cho trường hợp cụ thể để cho các bạn giúp họ ạ `
+👩‍❤️‍💋‍👩 [Dành Cho Người Kém May Mắn Và Khuyết Tật ](https://github.com/vuminhngocpt/Danh-cho-nguoi-khuyet-tat) `Trang này hỗ trợ cho những người có hoàn cảnh khó khăn cần được sự trợ giúp từ cộng đồng , mình cũng nhận từ thiện ở đây khi nào có hoàn cảnh khó khăn mình sẽ cho trường hợp cụ thể để cho các bạn giúp họ ạ `
 
 
 💥 [Frimware-ROM-Bios](https://github.com/vuminhngocpt/Up-rom/blob/main/README.md) `vào đây để tải các bản phần mềm hệ thống cho các loại thiết bị ở đây tôi chỉ mới cung cấp được cho nokia là chính chủ còn các hãng khác vẫn chưa có nhiều tôi sẽ đưa bạn đến các trang tải khác sẽ có cảnh báo nếu không phải trang của tôi`
