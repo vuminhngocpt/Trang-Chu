@@ -20,7 +20,7 @@ o
 💥[Thông Tin Và Điều Khoản Sử Dụng](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md) `bạn vui lòng tham khảo các điều khoản sử dụng của tôi và xem thông tin nhóm chúng tôi ở đây để không để các sự việc ... xin hãy bỏ chút thời gian để tìm hiểu nó`
 
 
-💥[Hỗ Trợ Và Đóng Góp](https://github.com/vuminhngocpt/Donate-Ung-ho-Admin) 
+💥[Hỗ Trợ - Donate Cho Mình](https://github.com/vuminhngocpt/Donate-Ung-ho-Admin) 
 `Trang này bạn có thể cho tôi tiền ủng hộ các dự án của tôi bằng tiền để tôi có động lực thêm chút ít để ngồi viết code xin chân thành cảm ơn bạn đã ủng hộ . Bạn cũng có thể chia sẻ những thứ mà mình biết hoặc đóng góp code cho tôi`
 
 
