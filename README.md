@@ -13,7 +13,7 @@
 
 o
 
-   💥 [Trang Web Cũ](http://vmnit.mobie.in)`đây là trang web giao diện cũ cho nokia và trình duyệt cổ tôi vẫn còn cập nhật ở đây là chính chưa chuyển 100% dữ liệu sang github vì ý do tương thích các thiết bị mong anh em ủng hộ tôi , tôi sẽ cố gắng hỗ trợ các dòng cổ cũ lâu nhất có thế  `
+   💥 [Trang Web Cũ](http://vmnit.mobie.in)`đây là trang web giao diện cũ cho nokia và trình duyệt cổ tôi vẫn còn cập nhật ở đây vì đam mê thôi tôi vẫn cập nhật đến khi nào sever sập thì thôi nhưng sẽ không thường xuyên vì sẽ chuyển dần sang web này  `
 
 
 
