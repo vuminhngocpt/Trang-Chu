@@ -1,7 +1,7 @@
 ###         Xin Chào  🥰 
 [![12-D9007-C-DB39-4110-A77-F-DBC72-D7-E5-E5-C.jpg](https://i.postimg.cc/BvbY03Nz/12-D9007-C-DB39-4110-A77-F-DBC72-D7-E5-E5-C.jpg)](https://postimg.cc/3yMCXPsj)
 
-(kết nối với tôi qua )
+### Kết Nối Với Tôi Qua
 🧩 [Facebook](https://www.facebook.com/share/ndTFfxYv341qvp2u/?mibextid=LQQJ4d)
 📺 [Youtube](https://youtube.com/@vmnit?si=6dEH_U5U6u3dkWKH)
 👾 [Tiktok](https://www.tiktok.com/@vuminhngoc113?_t=8poWrP6S3M8&_r=1)
