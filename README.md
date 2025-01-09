@@ -38,7 +38,7 @@ o
 💥 [Frimware-ROM-Bios](https://github.com/vuminhngocpt/Up-rom/blob/main/README.md) `vào đây để tải các bản phần mềm hệ thống cho các loại thiết bị ở đây tôi chỉ mới cung cấp được cho nokia là chính chủ còn các hãng khác vẫn chưa có nhiều tôi sẽ đưa bạn đến các trang tải khác sẽ có cảnh báo nếu không phải trang của tôi`
 
 
-🗂️ [Ứng dụng Và Trò Chơi Cho Nokia Cũ](https://github.com/vuminhngocpt/Ungdungs60/blob/main/README.md) `vào đây để tải ứng dụng cho các dòng nokia cổ như N8 hay S60v3 cũ E72 và nhiều hơn nữa xin lưu ý tôi chưa test nên các bạn cũng tự chịu trách nhiệm khi sử dụng các ứng dụng tôi đang cung cấp không báo cáo để không bị xóa link`
+🗂️ [Ứng dụng Và Trò Chơi](https://github.com/vuminhngocpt/Ungdungs60/blob/main/README.md) `vào đây để tải ứng dụng cho các dòng nokia cổ như N8 hay S60v3 cũ E72 và nhiều hơn nữa xin lưu ý tôi chưa test nên các bạn cũng tự chịu trách nhiệm khi sử dụng các ứng dụng tôi đang cung cấp không báo cáo để không bị xóa link`
 
 
 🧩 [Ứng Dụng Windows Pc](test) `Những Ứng Dụng Mà Admin Thấy Là Phải Cần Có Pc Của Team thường hay có những ứng dụng này`
@@ -55,5 +55,7 @@ o
 [![D75-AA7-F4-3-ACD-4-AC5-B40-F-F0-AF942-B5-D8-D.jpg](https://i.postimg.cc/s2PHrLnF/D75-AA7-F4-3-ACD-4-AC5-B40-F-F0-AF942-B5-D8-D.jpg)](https://postimg.cc/nszGK3bT)
 
 
-     Vũ Minh Ngọc © 2025 By VMNit 
-<cộng đồng Github Việt Nam > mã nguồn mở >bản quyền Github >VMNStudio>VMNit>VMNCATeam
+    Vũ Minh Ngọc © 2025 By VMNit 
+    
+     VMNStudio>VMNit>VMNCATeam
+     Sever  :     Github 
