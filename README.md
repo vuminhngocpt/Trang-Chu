@@ -50,9 +50,14 @@ o
 [![D75-AA7-F4-3-ACD-4-AC5-B40-F-F0-AF942-B5-D8-D.jpg](https://i.postimg.cc/s2PHrLnF/D75-AA7-F4-3-ACD-4-AC5-B40-F-F0-AF942-B5-D8-D.jpg)](https://postimg.cc/nszGK3bT)
 
 
-    Vũ Minh Ngọc © 2025 By VMNit
-     VMNStudio>VMNit>VMNCATeam
-         Sever  :  Github 
-    Email:vuminhngocpt@gmail.com
-    ĐC: xxxx-xx.Phú Thọ-Việt Nam
-      ĐT : Không Cung Cấp
+      Vũ Minh Ngọc © 2025 By VMNit
+    
+       VMNStudio>VMNit>VMNCATeam
+   
+      Sever  :  Github 
+     
+     Email:vuminhngocpt@gmail.com
+    
+     ĐC: xxxx-xx.Phú Thọ-Việt Nam
+     
+         ĐT : Không Cung Cấp
