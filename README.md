@@ -1,4 +1,4 @@
-###         Xin Chào  🥰 
+###   ▁ ▂ ▄ ▅ ▆ ▇ █ ♥️ █ ▇ ▆ ▅ ▄ ▂ ▁
 
 #### Ra Đường Nhớ Đeo Khẩu Trang Nhé ! Vì Dịch Cúm Mùa Đang Phức Tạp , Hãy Thông Minh Đừng Dại Mà Coi Thường Sức Khoẻ !⚠️
 
@@ -50,11 +50,6 @@ o
         9704229228460601￼ 
 [![D75-AA7-F4-3-ACD-4-AC5-B40-F-F0-AF942-B5-D8-D.jpg](https://i.postimg.cc/s2PHrLnF/D75-AA7-F4-3-ACD-4-AC5-B40-F-F0-AF942-B5-D8-D.jpg)](https://postimg.cc/nszGK3bT)
 
-
-░░░░░░███████ ]▄▄▄▄▄▄▄▄▃
-▂▄▅█████████▅▄▃▂
-I███████████████████].
-◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤...
 
 
       Vũ Minh Ngọc © 2025
