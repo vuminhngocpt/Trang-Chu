@@ -27,6 +27,10 @@ o
 
  🗣 [Tâm Sự Của Tôi](https://github.com/vuminhngocpt/gioithieivetoi) `tâm sự cùng admin , tui cũng là người bình thường nên sẽ có lúc có tâm sự tôi thường sẽ không đăng lên các mạng xã hội Để bạn hiểu hơn về tôi `
 
+
+ 🫥 [ Ảnh Nền Điện Thoại ](Test)`Kho Ảnh Đẹp Cho Điện Thoại Và Tất Cả Các Thiết Bị Khác `
+ 
+
 📚 [Mua Bán Thẻ Pokemon](test)
 `nơi mua bán chao đổi thẻ pokemon oline và thẻ vật lý ... đang test sever `
 
