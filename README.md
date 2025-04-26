@@ -1,4 +1,4 @@
-#### Ra Đường Nhớ Đeo Khẩu Trang Nhé ! Vì Dịch Cúm Mùa Đang Phức Tạp , Hãy Thông Minh Đừng Dại Mà Coi Thường Sức Khoẻ !⚠️
+#### Chào Mừng Bạn Đã Đến Với Trang Web Cá Nhân Này , Bạn Vui Lòng Xem Trang Này Có Giúp Gì Cho Bạn Được Không Nhé , Các Mục Có Thể Không Vào Được Vì Chưa Viết Xong !
 
 [![12-D9007-C-DB39-4110-A77-F-DBC72-D7-E5-E5-C.jpg](https://i.postimg.cc/BvbY03Nz/12-D9007-C-DB39-4110-A77-F-DBC72-D7-E5-E5-C.jpg)](https://postimg.cc/3yMCXPsj)
 
