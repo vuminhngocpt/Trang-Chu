@@ -51,8 +51,7 @@
 
         
 ####     🎁 Tặng Quà Cho Tôi🧧
-        9704229228460601￼ 
-[![D75-AA7-F4-3-ACD-4-AC5-B40-F-F0-AF942-B5-D8-D.jpg](https://i.postimg.cc/s2PHrLnF/D75-AA7-F4-3-ACD-4-AC5-B40-F-F0-AF942-B5-D8-D.jpg)](https://postimg.cc/nszGK3bT)
+        9704229228460601￼
 
 QR 
 [![7-D259558-FDC3-4816-A10-D-7624924-DD4-FE.jpg](https://i.postimg.cc/8zvtkbnP/7-D259558-FDC3-4816-A10-D-7624924-DD4-FE.jpg)](https://postimg.cc/Yvp1bQHJ)
