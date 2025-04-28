@@ -16,7 +16,7 @@
 
 
 
-   💥 [Trang Web Cũ](http://vmnit.mobie.in)`đây là trang web giao diện cũ cho nokia và trình duyệt cổ tôi vẫn còn cập nhật ở đây vì đam mê thôi tôi vẫn cập nhật đến khi nào sever sập thì thôi nhưng sẽ không thường xuyên vì sẽ chuyển dần sang web này  `
+   💥 [Trang Web Cũ](http://vmnit.mobie.in)`đây là trang web giao diện cũ cho nokia và trình duyệt cổ ,trang web đã cũ tôi ít cập nhật mới  `
 
 
 
