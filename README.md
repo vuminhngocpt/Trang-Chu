@@ -4,6 +4,7 @@
 #### Chào Mừng Bạn Đã Đến Với Trang Web Cá Nhân Này , Bạn Vui Lòng Xem Trang Này Có Giúp Gì Cho Bạn Được Không Nhé ❤️
 
 ### Kết Nối Với Tôi Qua
+`các tài khoản mạng xã hội có thể không khả dụng vì lý do bảo mật có thể tôi không trả lời tin nhắn bạn hãy thông cảm`
 
 🛜 [Facebook](https://www.facebook.com/share/ndTFfxYv341qvp2u/?mibextid=LQQJ4d)
 📺 [Youtube](https://youtube.com/@vmnit?si=6dEH_U5U6u3dkWKH)
