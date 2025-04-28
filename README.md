@@ -30,7 +30,7 @@
  🗣 [Tâm Sự Của Tôi](https://github.com/vuminhngocpt/gioithieivetoi) `tâm sự cùng admin , tui cũng là người bình thường nên sẽ có lúc có tâm sự tôi thường sẽ không đăng lên các mạng xã hội Để bạn hiểu hơn về tôi `
 
 
- 🌃 [ Ảnh ](https://github.com/vuminhngocpt/Hinhnendt)`Kho Ảnh Đẹp Cho Điện Thoại Và Tất Cả Các Thiết Bị , Tv ... `
+ 🌃 [ Ảnh ](https://github.com/vuminhngocpt/Hinhnendt)`Kho Ảnh Đẹp Điện Thoại Và Tất Cả Các Thiết Bị , Tv ... có thể làm hình nền`
  
 
 📚 [Mua Bán Thẻ Pokemon](test)
