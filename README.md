@@ -34,7 +34,7 @@
  
 
 📚 [Mua Bán Thẻ Pokemon](test)
-`nơi mua bán chao đổi thẻ pokemon oline và thẻ vật lý ... đang test sever `
+`nơi mua bán chao đổi thẻ pokemon oline và thẻ vật lý ...`
 
 
 👩‍❤️‍💋‍👩 [Mẹo Hay iPhone](https://github.com/vuminhngocpt/Danh-cho-nguoi-khuyet-tat) `Trang này hỗ trợ cho những người có hoàn cảnh khó khăn cần được sự trợ giúp từ cộng đồng , mình cũng nhận từ thiện ở đây khi nào có hoàn cảnh khó khăn mình sẽ cho trường hợp cụ thể để cho các bạn giúp họ ạ `
