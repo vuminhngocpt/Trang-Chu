@@ -7,15 +7,14 @@
 `các tài khoản mạng xã hội có thể không khả dụng vì lý do bảo mật có thể tôi không trả lời tin nhắn bạn hãy thông cảm`
 
 🛜 [Facebook](https://www.facebook.com/share/ndTFfxYv341qvp2u/?mibextid=LQQJ4d)
-📺 [Youtube](https://youtube.com/@vmnit?si=6dEH_U5U6u3dkWKH)
-👾 [Tiktok](https://www.tiktok.com/@vuminhngoc113?_t=8poWrP6S3M8&_r=1)
+🎬 [Youtube](https://youtube.com/@vmnit?si=6dEH_U5U6u3dkWKH)
+🌁 [Tiktok](https://www.tiktok.com/@vuminhngoc113?_t=8poWrP6S3M8&_r=1)
 
 
-#### Trang này hỗ trợ tốt nhất cho iPhone 
+#### Trang này hỗ trợ tốt nhất cho iPhone
 
 
 
-o
 
    💥 [Trang Web Cũ](http://vmnit.mobie.in)`đây là trang web giao diện cũ cho nokia và trình duyệt cổ tôi vẫn còn cập nhật ở đây vì đam mê thôi tôi vẫn cập nhật đến khi nào sever sập thì thôi nhưng sẽ không thường xuyên vì sẽ chuyển dần sang web này  `
 
