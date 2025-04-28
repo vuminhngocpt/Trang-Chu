@@ -1,7 +1,7 @@
 ###       Xin Chào 💕
 ![image](https://github.com/user-attachments/assets/33daa328-a626-45ac-9dba-24ce013c2edc)
 
-#### Chào Mừng Bạn Đã Đến Với Trang Web Cá Nhân Này , Bạn Vui Lòng Xem Trang Này Có Giúp Gì Cho Bạn Được Không Nhé ❤️
+#### ❤️
 
 ### Kết Nối Với Tôi Qua
 `các tài khoản mạng xã hội có thể không khả dụng vì lý do bảo mật có thể tôi không trả lời tin nhắn bạn hãy thông cảm`
