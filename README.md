@@ -1,7 +1,8 @@
-### Xin Chào , Trang Web Này Là Trang Web Của Vu Minh Ngoc , Ở Đây Tôi Chia Sẻ Mọi Thứ
+### Xin chào! Cảm ơn bạn đã dành thời gian ghé thăm blog của tôi. Hãy cứ tự nhiên như ở nhà nhé!
 
 
 ### Kết Nối Với Tôi Qua
+
 `các tài khoản mạng xã hội có thể không khả dụng vì lý do bảo mật có thể tôi không trả lời tin nhắn bạn hãy thông cảm`
 
 🛜 [Facebook](https://www.facebook.com/share/ndTFfxYv341qvp2u/?mibextid=LQQJ4d)
