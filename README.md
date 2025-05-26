@@ -1,7 +1,5 @@
-###       Xin Chào 💕
-![image](https://github.com/user-attachments/assets/33daa328-a626-45ac-9dba-24ce013c2edc)
+### Xin Chào , Trang Web Này Là Trang Web Của Vu Minh Ngoc , Ở Đây Tôi Chia Sẻ Mọi Thứ
 
-#### ❤️
 
 ### Kết Nối Với Tôi Qua
 `các tài khoản mạng xã hội có thể không khả dụng vì lý do bảo mật có thể tôi không trả lời tin nhắn bạn hãy thông cảm`
