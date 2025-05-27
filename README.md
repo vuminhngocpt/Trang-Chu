@@ -29,17 +29,14 @@
  🌃 [ Ảnh ](https://github.com/vuminhngocpt/Hinhnendt)
  
 
-📚 [Mua Bán Thẻ Pokemon](test)
-`nơi mua bán chao đổi thẻ pokemon oline và thẻ vật lý ...`
+
+👩‍❤️‍💋‍👩 [Mẹo Hay Khi Sử Dụng iPhone](https://github.com/vuminhngocpt/Danh-cho-nguoi-khuyet-tat)
 
 
-👩‍❤️‍💋‍👩 [Mẹo Hay Khi Sử Dụng iPhone](https://github.com/vuminhngocpt/Danh-cho-nguoi-khuyet-tat) `Trang này hỗ trợ cho ai đang dùng ios , các mẹo sẽ được cập nhật liên tục`
+💽 [Frimware-ROM-Bios](https://github.com/vuminhngocpt/Up-rom/blob/main/README.md)
 
 
-💽 [Frimware-ROM-Bios](https://github.com/vuminhngocpt/Up-rom/blob/main/README.md) `vào đây để tải các bản phần mềm hệ thống cho các loại thiết bị ở đây tôi chỉ mới cung cấp được cho nokia là chính chủ còn các hãng khác vẫn chưa có nhiều tôi sẽ đưa bạn đến các trang tải khác sẽ có cảnh báo nếu không phải trang của tôi`
-
-
-🗂️ [Ứng dụng Và Trò Chơi](https://github.com/vuminhngocpt/Ungdungs60/blob/main/README.md) `vào đây để tải ứng dụng cho các dòng nokia cổ và các ứng dụng mình thấy hữu ích mình cũng giới thiệu lên đây`
+🗂️ [Ứng dụng Và Trò Chơi](https://github.com/vuminhngocpt/Ungdungs60/blob/main/README.md)
 
 
 
