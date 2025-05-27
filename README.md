@@ -12,8 +12,9 @@
 
 
 
+### Trang Web Cũ Của Tôi
 
-   💥 [Trang Web Cũ](http://vmnit.mobie.in)`đây là trang web giao diện cũ cho nokia và trình duyệt cổ ,trang web đã cũ tôi ít cập nhật mới  `
+   💥 [Trang Web Cũ](http://vmnit.mobie.in)
 
 
 
