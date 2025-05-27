@@ -8,7 +8,6 @@
 🌁 [Tiktok](https://www.tiktok.com/@vuminhngoc113?_t=8poWrP6S3M8&_r=1)
 
 
-#### Trang này hỗ trợ tốt nhất cho iPhone
 
 
 
