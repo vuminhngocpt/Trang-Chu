@@ -23,10 +23,10 @@
 💥[ Donate ](https://github.com/vuminhngocpt/Donate-Ung-ho-Admin)
 
 
- 🗣 [Tâm Sự Của Tôi](https://github.com/vuminhngocpt/gioithieivetoi) `tâm sự cùng admin , tui cũng là người bình thường nên sẽ có lúc có tâm sự tôi thường sẽ không đăng lên các mạng xã hội Để bạn hiểu hơn về tôi `
+ 🗣 [Tâm Sự Của Tôi](https://github.com/vuminhngocpt/gioithieivetoi)
 
 
- 🌃 [ Ảnh ](https://github.com/vuminhngocpt/Hinhnendt)`Kho Ảnh Đẹp Điện Thoại Và Tất Cả Các Thiết Bị , Tv ... có thể làm hình nền`
+ 🌃 [ Ảnh ](https://github.com/vuminhngocpt/Hinhnendt)
  
 
 📚 [Mua Bán Thẻ Pokemon](test)
