@@ -29,8 +29,7 @@
 ### [ Ảnh ](https://github.com/vuminhngocpt/Hinhnendt)
  
 
-
-### [Mẹo Hay Khi Sử Dụng iPhone](https://github.com/vuminhngocpt/Danh-cho-nguoi-khuyet-tat)
+### [Mẹo Sử Dụng iPhone](https://github.com/vuminhngocpt/Danh-cho-nguoi-khuyet-tat)
 
 
 ### [Frimware-ROM-Bios](https://github.com/vuminhngocpt/Up-rom/blob/main/README.md)
