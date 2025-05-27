@@ -26,7 +26,7 @@
 ### [Tâm Sự](https://github.com/vuminhngocpt/gioithieivetoi)
 
 
-### [ Ảnh ](https://github.com/vuminhngocpt/Hinhnendt)
+### [ Ảnh , Hình Nền ](https://github.com/vuminhngocpt/Hinhnendt)
  
 
 ### [Mẹo Sử Dụng iPhone](https://github.com/vuminhngocpt/Danh-cho-nguoi-khuyet-tat)
