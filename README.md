@@ -17,7 +17,7 @@
 
 
 
-💥[Thông Tin Và Điều Khoản Sử Dụng](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md)
+💥[Điều Khoản Sử Dụng](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md)
 
 
 💥[Hỗ Trợ - Donate ](https://github.com/vuminhngocpt/Donate-Ung-ho-Admin) 
