@@ -13,11 +13,11 @@
 
 ### Trang Web Cũ Của Tôi
 
-   💥 [Trang Web Cũ](http://vmnit.mobie.in)
+   💥 [Vào Trang Web Cũ](http://vmnit.mobie.in)
 
 
 
-💥[Thông Tin Và Điều Khoản Sử Dụng](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md) `bạn vui lòng tham khảo các điều khoản sử dụng của tôi và xem thông tin nhóm chúng tôi ở đây để không để các sự việc ... xin hãy bỏ chút thời gian để tìm hiểu nó`
+💥[Thông Tin Và Điều Khoản Sử Dụng](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md)
 
 
 💥[Hỗ Trợ - Donate ](https://github.com/vuminhngocpt/Donate-Ung-ho-Admin) 
