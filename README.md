@@ -1,4 +1,4 @@
-### Xin chào! Cảm ơn bạn đã dành thời gian ghé thăm blog của tôi. Hãy cứ tự nhiên như ở nhà nhé!
+# Xin chào! Cảm ơn bạn đã dành thời gian ghé thăm blog của tôi. Hãy cứ tự nhiên như ở nhà nhé!
 
 
 
