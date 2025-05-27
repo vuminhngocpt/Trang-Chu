@@ -13,17 +13,17 @@
 
 ## Menu
 
-   💥 [Vào Trang Web Cũ](http://vmnit.mobie.in)
+💥 [Trang Web Cũ](http://vmnit.mobie.in)
 
 
 
-💥[Điều Khoản Sử Dụng](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md)
+💥[Điều Khoản ](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md)
 
 
 💥[ Donate ](https://github.com/vuminhngocpt/Donate-Ung-ho-Admin)
 
 
- 🗣 [Tâm Sự Của Tôi](https://github.com/vuminhngocpt/gioithieivetoi)
+ 🗣 [Tâm Sự](https://github.com/vuminhngocpt/gioithieivetoi)
 
 
  🌃 [ Ảnh ](https://github.com/vuminhngocpt/Hinhnendt)
