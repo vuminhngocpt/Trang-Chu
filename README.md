@@ -20,8 +20,7 @@
 💥[Điều Khoản Sử Dụng](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md)
 
 
-💥[Hỗ Trợ - Donate ](https://github.com/vuminhngocpt/Donate-Ung-ho-Admin) 
-`Trang này bạn có thể cho tôi tiền ủng hộ các dự án của tôi bằng tiền để tôi có động lực thêm chút ít để ngồi viết code xin chân thành cảm ơn bạn đã ủng hộ . Bạn cũng có thể chia sẻ những thứ mà mình biết hoặc đóng góp code cho tôi`
+💥[ Donate ](https://github.com/vuminhngocpt/Donate-Ung-ho-Admin)
 
 
  🗣 [Tâm Sự Của Tôi](https://github.com/vuminhngocpt/gioithieivetoi) `tâm sự cùng admin , tui cũng là người bình thường nên sẽ có lúc có tâm sự tôi thường sẽ không đăng lên các mạng xã hội Để bạn hiểu hơn về tôi `
