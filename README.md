@@ -26,7 +26,7 @@
 ### [Tâm Sự](https://github.com/vuminhngocpt/gioithieivetoi)
 
 
-### [Phòng Thí Nghiệm](https://github.com/vuminhngocpt/thinghiemvatesst)
+### [Miễn Phí 100%](https://github.com/vuminhngocpt/thinghiemvatesst)
 
 
 ### [ Ảnh , Hình Nền ](https://github.com/vuminhngocpt/Hinhnendt)
