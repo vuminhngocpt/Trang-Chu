@@ -16,7 +16,7 @@
 ##  📱. Menu Chính
 
 ##  [Cửa Hàng Sửa Xe Máy Xe Điện](test)
-
+>ở đây sẽ cập nhật bảng giá sửa chữa xe gắn máy và xe điện công khai cũng như hướng dẫn sửa xe cơ bản
 
 ### [Trang Web Cũ](http://vmnit.mobie.in)
 
