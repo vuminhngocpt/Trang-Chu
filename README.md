@@ -7,7 +7,7 @@
 🎬 [Youtube](https://youtube.com/@vmnit?si=6dEH_U5U6u3dkWKH)
 🌁 [Tiktok](https://www.tiktok.com/@vuminhngoc113?_t=8poWrP6S3M8&_r=1)
 
-### Ⓜ️ iMessage 24/7  : vuminhngocpt@gmail.com 
+### Ⓜ️  nhắn tin iMessage để được hỗ trợ nhanh nhất   : vuminhngocpt@gmail.com 
 
 
 
