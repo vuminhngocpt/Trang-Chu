@@ -8,9 +8,8 @@
 🌁 [Tiktok](https://www.tiktok.com/@vuminhngoc113?_t=8poWrP6S3M8&_r=1)
 
 ### Ⓜ️  nhắn tin iMessage để được hỗ trợ nhanh nhất , chỉ nhận tin nhắn
-   ❤️iMessege:vuminhngocpt@com
-### Kênh Telegram
-[Telegram](https://t.me/+g48M_lzjVcU2NTE1)
+   ❤️iMessege:vuminhngocpt@gmail.com
+### Kênh Telegram [link](chua)
 
   các bạn nhắn tin nhé nhắn rõ cho mình biết bạn đang cần gì hay muốn hỗ trợ gì mình sẽ cố trả lời của tất cả các bạn ưu tiên nhắn qua imessage iPhone mình sẽ trả lời nhanh hơn ở đây do công việc các nhóm khác mình có thể trả lời lâu hơn đó
 
