@@ -9,8 +9,8 @@
 
 ### Ⓜ️  nhắn tin iMessage để được hỗ trợ nhanh nhất , chỉ nhận tin nhắn
    ❤️iMessege:vuminhngocpt@com
-### Kênh Tele Hỗ Trợ 
-(lin)[https://t.me/+g48M_lzjVcU2NTE1]
+### Kênh Telegram
+[Telegram](https://t.me/+g48M_lzjVcU2NTE1)
 
 ##  📱. Menu Chính
 
