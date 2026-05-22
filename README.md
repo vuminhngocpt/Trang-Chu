@@ -12,6 +12,8 @@
 ### Kênh Telegram
 [Telegram](https://t.me/+g48M_lzjVcU2NTE1)
 
+  các bạn nhắn tin nhé nhắn rõ cho mình biết bạn đang cần gì hay muốn hỗ trợ gì mình sẽ cố trả lời của tất cả các bạn ưu tiên nhắn qua imessage iPhone mình sẽ trả lời nhanh hơn ở đây do công việc các nhóm khác mình có thể trả lời lâu hơn đó
+
 ##  📱. Menu Chính
 
 ##  [Cửa Hàng Sửa Xe Máy Xe Điện](test)
