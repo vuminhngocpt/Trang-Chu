@@ -8,9 +8,9 @@
 🌁 [Tiktok](https://www.tiktok.com/@vuminhngoc113?_t=8poWrP6S3M8&_r=1)
 
 ### Ⓜ️  nhắn tin iMessage để được hỗ trợ nhanh nhất , chỉ nhận tin nhắn
-   ❤️iMessege:vuminhngocpt@gmail.com 
-### 🙂 https://t.me/+g48M_lzjVcU2NTE1
-
+   ❤️iMessege:vuminhngocpt@com
+### Kênh Tele Hỗ Trợ 
+(lin)[https://t.me/+g48M_lzjVcU2NTE1]
 
 ##  📱. Menu Chính
 
